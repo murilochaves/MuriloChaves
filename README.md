@@ -1,4 +1,4 @@
-# Hi 👋, I'm Murilo
+# Hi 👋, I am Murilo
 
 🎓 | ULBRA, Information Systems, Bachelor <br/>
 📚 | FIAP, Big Data Science, MBA Student <br/>
