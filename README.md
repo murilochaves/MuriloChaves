@@ -5,6 +5,16 @@
 - 💼 <b>|</b> FAPEG, Research, DTI-C <br/>
 - 📍 <b>|</b> Uberlândia, MG, Zip Code 38400
 
+[<img src="https://img.shields.io/badge/email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:murilochaves@icloud.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/murilochaves/)
+
+<!--
+## Links:
+
+Instagram:
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/murilochaves/)
+-->
+
 <!--
 **MuriloChaves/MuriloChaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,7 +48,3 @@ Here are some ideas to get you started:
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilochaves&hide=TeX&layout=compact)
 
 </div>
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/murilochaves/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/murilochaves/)
-[<img src="https://img.shields.io/badge/email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:murilochaves@icloud.com)
