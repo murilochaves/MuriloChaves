@@ -1,9 +1,9 @@
-# Hi 👋, I am Murilo
+# Hi! Welcome :)
 
-🎓 | ULBRA, Information Systems, Bachelor <br/>
-📚 | FIAP, Big Data Science, MBA Student <br/>
-💼 | FAPEG, Research, DTI-C <br/>
-📍 | Uberlândia, MG, Zip Code 38400
+- 🎓 <b>|</b> ULBRA, Information Systems, Bachelor <br/>
+- 📚 <b>|</b> FIAP, Big Data Science, MBA Student <br/>
+- 💼 <b>|</b> FAPEG, Research, DTI-C <br/>
+- 📍 <b>|</b> Uberlândia, MG, Zip Code 38400
 
 <!--
 **MuriloChaves/MuriloChaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
