@@ -2,7 +2,7 @@
 
 - 🎓 <b>|</b> ULBRA, Information Systems, Bachelor <br/>
 - 📚 <b>|</b> FIAP, Big Data Science, MBA Student <br/>
-- 💼 <b>|</b> FAPEG, Research, DTI-C <br/>
+- 💼 <b>|</b> Callink, Data Scientist <br/>
 - 📍 <b>|</b> Uberlândia, MG, Zip Code 38400
 
 [<img src="https://img.shields.io/badge/email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:murilochaves@icloud.com)
