@@ -42,9 +42,11 @@ Here are some ideas to get you started:
 
 ## ⚡ GitHub Stats
 
-<div align="left">
+<div align="center">
   
+  <!--
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=murilochaves&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+  -->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilochaves&hide=TeX&layout=compact)
 
 </div>
