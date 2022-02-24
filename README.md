@@ -5,7 +5,6 @@
 - 💼 <b>|</b> Callink, Data Scientist <br/>
 - 📍 <b>|</b> Uberlândia, MG, Zip Code 38400
 
-[<img src="https://img.shields.io/badge/email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:murilochaves@icloud.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/murilochaves/)
 
 <!--
