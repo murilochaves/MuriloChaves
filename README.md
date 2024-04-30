@@ -4,7 +4,7 @@ ___
 
 <div align='justify'>
   <p>
-    Bacharel em Sistemas de Informação pela ULBRA e atualmente cursando dois programas de pós-graduação: MBA em Big Data Science pela FIAP e MBA em Ciência de Dados para o Mercado Financeiro na XP Educação. Tem experiência como pesquisador em projetos financiados pela FAPEG. E, atualmente buscando oportunidades (Cientista de dados ou Analista Quantitativo) para atuação com pesquisa e inovação voltadas para o mercado financeiro.
+    Bacharel em Sistemas de Informação pela Universidade Luterana do Brasil, com duas pós-graduações: MBA em Big Data Science pela Faculdade de Informática e Administração Paulista; e MBA em Ciência de Dados para o Mercado Financeiro pela XP Educação. Atua profissionalmente como Analista de Dados na empresa Seedz Marketing & Fidelidade S.A, participando ativamente de eventos e meetups de comunidades tech, e com experiência como pesquisador em projetos financiados pela FAPEG.
   </p>
 </div>
 
