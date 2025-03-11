@@ -4,14 +4,13 @@ ___
 
 <div align='justify'>
   <p>
-    Com um sólido background acadêmico, finalizei meu MBA em Ciência de Dados para o Mercado Financeiro pela XP
-    Educação, após concluir um MBA em Big Data Science pela FIAP. Em minha última posição, pude contribuir com análises
-    aprofundadas que sustentam estratégias de negócios no setor de fidelidade, utilizando tecnologias como AWS e Python.
+    Bacharel em Sistemas de Informação pela ULBRA (Universidade Luterana do Brasil), com duas pós-graduações: MBA em Big Data Science pela FIAP (Faculdade de Informática e Administração Paulista) e MBA em Ciência de Dados para o Mercado Financeiro pela IGTI (XP Educação).
   </p>
   <p>
-    Trabalhei em colaboração para validar e consolidar dados transacionais, garantindo a integridade e eficiência dos
-    sistemas de informação. Minha motivação é aplicar conhecimentos, testar e analisar projetos que transformam dados em
-    decisões inteligentes com resultados mensuráveis.
+    Profissional com experiência em engenharia, análise e ciência de dados, atuando no desenvolvimento de soluções ponta a ponta. Possuo conhecimento aprofundado em otimização de bancos de dados, modelagem de dados, construção de data warehouses e data marts, além da aplicação de Python, SQL e ferramentas de visualização para transformar dados em insights estratégicos.
+  </p>
+  <p>
+    Atuo ativamente na comunidade de tecnologia, participando de eventos e meetups, contribuindo para o compartilhamento de conhecimento na área. Além disso, já integrei projetos de pesquisa financiados, agregando experiência em iniciativas de inovação e desenvolvimento de soluções analíticas.
   </p>
 </div>
 
