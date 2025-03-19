@@ -7,10 +7,10 @@ ___
     Bacharel em Sistemas de Informação pela ULBRA (Universidade Luterana do Brasil), com duas pós-graduações: MBA em Big Data Science pela FIAP (Faculdade de Informática e Administração Paulista) e MBA em Ciência de Dados para o Mercado Financeiro pela IGTI (XP Educação).
   </p>
   <p>
-    Profissional com experiência em engenharia, análise e ciência de dados, atuando no desenvolvimento de soluções ponta a ponta. Possuo conhecimento aprofundado em otimização de bancos de dados, modelagem de dados, construção de data warehouses e data marts, além da aplicação de Python, SQL e ferramentas de visualização para transformar dados em insights estratégicos.
+    Profissional com experiência em engenharia, análise e ciência de dados, especializado no desenvolvimento de soluções ponta a ponta. Possuo conhecimento aprofundado em otimização de bancos de dados, modelagem de dados, construção de data warehouses e data marts, além da aplicação de Python, SQL e ferramentas de visualização para transformar dados em insights estratégicos.
   </p>
   <p>
-    Atuo ativamente na comunidade de tecnologia, participando de eventos e meetups, contribuindo para o compartilhamento de conhecimento na área. Além disso, já integrei projetos de pesquisa financiados, agregando experiência em iniciativas de inovação e desenvolvimento de soluções analíticas.
+    Participo ativamente da comunidade de tecnologia, engajando-me em eventos e meetups para compartilhar conhecimento. Além disso, integrei projetos de pesquisa financiados, adquirindo experiência em inovação e desenvolvimento de soluções analíticas.
   </p>
 </div>
 
